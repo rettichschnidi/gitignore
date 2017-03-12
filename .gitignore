@@ -1,0 +1,9 @@
+# Qt Creator
+*.user
+*.autosave
+
+# JetBrains
+.idea
+
+# Vim
+*.swp
