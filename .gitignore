@@ -1,6 +1,7 @@
 # Qt Creator
 *.user
 *.autosave
+build-*/
 
 # JetBrains
 .idea
